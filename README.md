@@ -1,5 +1,4 @@
-# WEEKLY6
-
+# WEEKLY6 Deepika2001
 using System;
 class Program
 {
